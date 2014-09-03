@@ -41,7 +41,7 @@ public class MainActivity extends Activity {
 
         vibrator = (Vibrator) getApplicationContext().getSystemService(Context.VIBRATOR_SERVICE);
         try {
-            socket = IO.socket("http://andylind.lepus.uberspace.de:61000/");
+            socket = IO.socket("http://andylind.lepus.uberspace.de:64021/");
         } catch (Exception e) {
             e.printStackTrace();
         }
