@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Morse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_connect">connect</string>
+    <string name="action_chat">chat</string>
+    <string name="action_disconnect">disconnect</string>
+    <string name="btnConnect">connect</string>
+    <string name="nfoNotConnected">not connected</string>
+    <string name="nfoChatId">123</string>
+    <string name="btnSend">send</string>
+    <string name="txtConnect">connect to room</string>
+
+</resources>
